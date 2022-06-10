@@ -1,5 +1,5 @@
 [RSSCHOOL-CV](https://rs.school/)
-*******************
+******
 
 
 ## Dzmitry Bykau ##
